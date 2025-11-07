@@ -1,0 +1,14 @@
+D:\Development\C#\wtf\WTF\bin\Release\WTF.exe.config
+D:\Development\C#\wtf\WTF\bin\Release\WTF.exe
+D:\Development\C#\wtf\WTF\bin\Release\WTF.pdb
+D:\Development\C#\wtf\WTF\bin\Release\Interop.WMPLib.dll
+D:\Development\C#\wtf\WTF\bin\Release\AxInterop.WMPLib.dll
+D:\Development\C#\wtf\WTF\obj\Release\Interop.WMPLib.dll
+D:\Development\C#\wtf\WTF\obj\Release\AxInterop.WMPLib.dll
+D:\Development\C#\wtf\WTF\obj\Release\WTF.csproj.ResolveComReference.cache
+D:\Development\C#\wtf\WTF\obj\Release\WTF.Form1.resources
+D:\Development\C#\wtf\WTF\obj\Release\System_What_The_F.Properties.Resources.resources
+D:\Development\C#\wtf\WTF\obj\Release\WTF.csproj.GenerateResource.cache
+D:\Development\C#\wtf\WTF\obj\Release\WTF.csproj.CoreCompileInputs.cache
+D:\Development\C#\wtf\WTF\obj\Release\WTF.exe
+D:\Development\C#\wtf\WTF\obj\Release\WTF.pdb

@@ -1,0 +1,44 @@
+C:\Users\DC01\Google ไดรฟ์\code Text\WTF\WTF\bin\Debug\WTF.exe
+C:\Users\DC01\Google ไดรฟ์\code Text\WTF\WTF\bin\Debug\WTF.pdb
+C:\Users\DC01\Google ไดรฟ์\code Text\WTF\WTF\obj\Debug\WTF.csprojResolveAssemblyReference.cache
+C:\Users\DC01\Google ไดรฟ์\code Text\WTF\WTF\obj\Debug\WTF.Form1.resources
+C:\Users\DC01\Google ไดรฟ์\code Text\WTF\WTF\obj\Debug\WTF.csproj.GenerateResource.Cache
+C:\Users\DC01\Google ไดรฟ์\code Text\WTF\WTF\obj\Debug\WTF.exe
+C:\Users\DC01\Google ไดรฟ์\code Text\WTF\WTF\obj\Debug\WTF.pdb
+C:\Users\DC01\Google ไดรฟ์\code Text\WTF\WTF\obj\Debug\Interop.WMPLib.dll
+C:\Users\DC01\Google ไดรฟ์\code Text\WTF\WTF\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DC01\Google ไดรฟ์\code Text\WTF\WTF\obj\Debug\WTF.csproj.ResolveComReference.cache
+C:\Users\DC01\Google ไดรฟ์\code Text\WTF\WTF\bin\Debug\Interop.WMPLib.dll
+C:\Users\DC01\Google ไดรฟ์\code Text\WTF\WTF\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DC01\Google ไดรฟ์\code Text\WTF\WTF\obj\Debug\System_What_The_F.Properties.Resources.resources
+D:\Development\VS\WTF\WTF\bin\Debug\WTF.exe.config
+D:\Development\VS\WTF\WTF\bin\Debug\WTF.exe
+D:\Development\VS\WTF\WTF\bin\Debug\WTF.pdb
+D:\Development\VS\WTF\WTF\bin\Debug\Interop.WMPLib.dll
+D:\Development\VS\WTF\WTF\bin\Debug\AxInterop.WMPLib.dll
+D:\Development\VS\WTF\WTF\obj\Debug\WTF.csproj.AssemblyReference.cache
+D:\Development\VS\WTF\WTF\obj\Debug\WTF.csproj.SuggestedBindingRedirects.cache
+D:\Development\VS\WTF\WTF\obj\Debug\Interop.WMPLib.dll
+D:\Development\VS\WTF\WTF\obj\Debug\AxInterop.WMPLib.dll
+D:\Development\VS\WTF\WTF\obj\Debug\WTF.csproj.ResolveComReference.cache
+D:\Development\VS\WTF\WTF\obj\Debug\WTF.Form1.resources
+D:\Development\VS\WTF\WTF\obj\Debug\System_What_The_F.Properties.Resources.resources
+D:\Development\VS\WTF\WTF\obj\Debug\WTF.csproj.GenerateResource.cache
+D:\Development\VS\WTF\WTF\obj\Debug\WTF.csproj.CoreCompileInputs.cache
+D:\Development\VS\WTF\WTF\obj\Debug\WTF.exe
+D:\Development\VS\WTF\WTF\obj\Debug\WTF.pdb
+D:\Development\C#\wtf\WTF\bin\Debug\WTF.exe.config
+D:\Development\C#\wtf\WTF\bin\Debug\WTF.exe
+D:\Development\C#\wtf\WTF\bin\Debug\WTF.pdb
+D:\Development\C#\wtf\WTF\bin\Debug\Interop.WMPLib.dll
+D:\Development\C#\wtf\WTF\bin\Debug\AxInterop.WMPLib.dll
+D:\Development\C#\wtf\WTF\obj\Debug\WTF.csproj.AssemblyReference.cache
+D:\Development\C#\wtf\WTF\obj\Debug\Interop.WMPLib.dll
+D:\Development\C#\wtf\WTF\obj\Debug\AxInterop.WMPLib.dll
+D:\Development\C#\wtf\WTF\obj\Debug\WTF.csproj.ResolveComReference.cache
+D:\Development\C#\wtf\WTF\obj\Debug\WTF.Form1.resources
+D:\Development\C#\wtf\WTF\obj\Debug\System_What_The_F.Properties.Resources.resources
+D:\Development\C#\wtf\WTF\obj\Debug\WTF.csproj.GenerateResource.cache
+D:\Development\C#\wtf\WTF\obj\Debug\WTF.csproj.CoreCompileInputs.cache
+D:\Development\C#\wtf\WTF\obj\Debug\WTF.exe
+D:\Development\C#\wtf\WTF\obj\Debug\WTF.pdb
